@@ -15,7 +15,7 @@ While you are only allocated 2h today for the Mock test, we strongly suggest tha
 
 Student Visits [link to test repo](https://github.com/lighthouse-labs/assessment-exam-student). Student follows the get started proccedure:
 
-#1-procedure#
+![procedure](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/1-procedure.gif)
 
 
 #### 1. Clone the repository
@@ -39,7 +39,7 @@ Either by running __one__ of these 3 commands:
 
 #### 3. Open the entire project in Visual Studio Code
 
-#2img#
+![code](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/2-code.png)
 
 #### 4. Open a terminal window ( in same env that you cloned the repo )
 
@@ -77,7 +77,7 @@ Open up `answers/` directory and look into each file. Each of those file is a qu
 
 #### 404 - Cannot reach Repo (no access)
 
-#3-404#
+![404](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/3-404.png)
 
 This means the student has not accepted their github invitation from Lighthouse Labs Organization. 
 
@@ -85,7 +85,7 @@ First, ask the student to check their email for the github invitation. If they c
 
 ### Cannot `git clone` repo
 
-#4-git-issue#
+![git-issue](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/4-git-issue.png)
 
 This is most likely due to `git` not set up properly. First thing is check if the account is most likely assigned. run the commands:
 
@@ -101,7 +101,7 @@ If this all has been done, and it still does not work, erase the public key from
 
 ### `npm install` fails - errors
 
-#5-npm-err
+![npm-err](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/5-npm-err.png)
 
 This can be caused by many things. 
 
@@ -145,7 +145,7 @@ then re-run the commands above. Chances this will fix the issue.
 
 ### Cannot find `exam-token`
 
-#6-test-code
+![test-code](https://github.com/vasiliy-klimkin/proc-test-cheatsheet/blob/master/images/6-test-code.png)
 
 The test `exam-token` is located on todays activity for the test.
 
