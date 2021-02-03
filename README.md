@@ -123,7 +123,13 @@ If that is not the case run this command to install it:
 
 `nvm install 15.3.0`  - for mac M1
 
-After this change delete `node_modules` and `npm install` again.
+`nvm use _VERSION_NUMBER_INSTALLED` - switch to newer version
+
+After this change delete `node_modules` and `npm install` again with the following commands:
+
+`rm -rf node_modules`
+
+`npm install`
 
 #### STILL ERROR VERSION IS CORRECT
 
